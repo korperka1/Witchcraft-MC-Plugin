@@ -1,0 +1,11 @@
+name: WitchCraft
+version: '${version}'
+main: hi.korperka.witchcraftplugin.Witchcraft
+api-version: '1.20'
+authors: [korperka]
+description: A test plugin
+
+commands:
+  wand:
+    description: Gives a magic wand to player
+    usage: /<command>
